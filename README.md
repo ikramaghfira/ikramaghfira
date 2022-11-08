@@ -1,4 +1,4 @@
-![Junior Software Quality Assurance](https://github.com/ikramaghfira/ikramaghfira/blob/main/November%20Update.gif)
+                      ![Junior Software Quality Assurance](https://github.com/ikramaghfira/ikramaghfira/blob/main/November%20Update.gif)
 
 ## Hi there 👋, I'm Ikramah Maghfirah
 I am Fira an eager learner of Software Quality Assurance. Currently, I enjoy working with Java and framework user level of Groovy by Katalon Studio for deploying an automation test. Nevertheless, I really into Selenium to build a framework from a scratch. Python, SQL, and JavaScript are also being on my learning lists.
